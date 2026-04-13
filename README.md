@@ -59,3 +59,8 @@ cambios 3 - salatin
 Cambio 1: Virgolini
 Cambio 2: Virgolini
 Cambio 3: Virgolini
+
+## Respuestas de actividad 2.6
+
+1. Guardar versiones manualmente es un método propenso al caos. Usar un sistema de control de versiones como Git ofrece ventajas estructurales y técnicas que hacen el trabajo mucho más profesional y seguro.
+
