@@ -64,8 +64,7 @@ Cambio 3: Virgolini
 
 1. Guardar versiones manualmente es un método propenso al caos. Usar un sistema de control de versiones como Git ofrece ventajas estructurales y técnicas que hacen el trabajo mucho más profesional y seguro.
 
-2. 
-git add: Se usa para seleccionar los archivos o cambios que querés incluir en el próximo guardado. 
+2. git add: Se usa para seleccionar los archivos o cambios que querés incluir en el próximo guardado. 
 
 git commit: Sirve para guardar esos cambios de forma permanente en el historial del proyecto pero agregando un mensaje que explicque qué se hizo. Importante que sea claro el mensaje.
 
@@ -73,4 +72,6 @@ git pull: Se usa para traer a tu compu los cambios que están en el repositorio,
 
 git push: permite subir tus cambios al repositorio, para que queden guardados y a disposición para los demás.
 
-3. En un proyecto real, usamos ramas principalmente para trabajar tranquilos sin romper lo que ya funciona, ya que nos permiten separar cada tarea nueva o cada arreglo de errores en un espacio propio. Esto sirve para que varios compañeros puedan avanzar en distintas partes del código al mismo tiempo sin mezclarse ni borrarse cosas entre sí; además, funcionan como un campo de pruebas donde podemos experimentar cambios arriesgados con la seguridad de que, si algo sale mal, la versión principal del proyecto sigue intacta y operativa. Finalmente, las ramas son fundamentales para revisar el trabajo antes de darlo por terminado, asegurando que solo el código que realmente funciona se sume al resultado final.
+4. En un proyecto real, usamos ramas principalmente para trabajar tranquilos sin romper lo que ya funciona, ya que nos permiten separar cada tarea nueva o cada arreglo de errores en un espacio propio. Esto sirve para que varios compañeros puedan avanzar en distintas partes del código al mismo tiempo sin mezclarse ni borrarse cosas entre sí; además, funcionan como un campo de pruebas donde podemos experimentar cambios arriesgados con la seguridad de que, si algo sale mal, la versión principal del proyecto sigue intacta y operativa. Finalmente, las ramas son fundamentales para revisar el trabajo antes de darlo por terminado, asegurando que solo el código que realmente funciona se sume al resultado final.
+
+5. El git rebase es una técnica que permite integrar cambios de una rama a otra manteniendo un historial lineal y limpio. A diferencia del merge tradicional, que crea un nuevo "commit de unión" conectando dos ramas, el rebase "vuelve a escribir" la historia: toma los commits de la rama de trabajo, los desplaza temporalmente y los vuelve a aplicar uno por uno justo después del último commit de la rama base. Esto elimina las ramificaciones innecesarias en el gráfico del repositorio, facilitando la lectura del progreso del proyecto como si todos los cambios se hubieran realizado en una única secuencia lógica y ordenada.
