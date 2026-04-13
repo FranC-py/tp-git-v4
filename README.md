@@ -46,15 +46,14 @@ Módulo GPRS que permite enviar datos a través de la red móvil usando una tarj
 - SALATIN Francisco
 - VIRGOLINI Santiago
 
+<<<<<<< HEAD
 Cambio 1: Castillo
 Cambio 2: Castillo
 Cambio 3: Castillo
 Cambio 1: Cerri
 Cambio 2: Cerri
 Cambio 3: Cerri
-
-
-
 cambios 1 - salatin
 cambios 2 - salatin
 cambios 3 - salatin
+Cambio 1: Virgolini
