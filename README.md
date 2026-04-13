@@ -3,6 +3,7 @@
 ## Problema
 ¿Alguna vez te preocupaste de que tus abuelos o padres puedan sufrir un accidente y que no este enterado?, una encuesta realizada en el instituto técnico salesiano Villada nos mostro el como varios alumnos se preocupan por sus abuelos que viven solos o también profesores que se preocupan de sus padres ya ancianos.
 
+
 Esto no es exageración, ya que puedan pasar muchas cosas y si uno no se entera a tiempo pueden derivar en situaciones como golpes fuertes, robos, o en situaciones mas graves hacia ser querido.
 
 Estar informado es algo importante, así que proponemos la siguiente idea:
@@ -48,7 +49,7 @@ Módulo GPRS que permite enviar datos a través de la red móvil usando una tarj
 Cambio 1: Castillo
 Cambio 2: Castillo
 Cambio 3: Castillo
-
+Cambio 1: Cerri
 
 
 
