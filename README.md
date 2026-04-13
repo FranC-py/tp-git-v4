@@ -44,3 +44,14 @@ Módulo GPRS que permite enviar datos a través de la red móvil usando una tarj
 - CERRI Valentín
 - SALATIN Francisco
 - VIRGOLINI Santiago
+
+
+
+
+
+
+
+
+
+
+Cambio 1: Virgolini
