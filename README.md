@@ -21,3 +21,20 @@ Al detecta un problema (pulso anormal, caída o aprietan el S.O.S.), la pulsera 
 
 - Cargador magnético: Para garantizar que el usuario no se saque la pulsera para cargarla (y se olvide de ponérsela), le hacemos un módulo de cargador portátil. Se pega de forma magnética encima de la pulsera y la carga puesta, garantizando que el monitoreo no se corte.
 
+
+## Componentes a utilizar
+
+Estos módulos a continuación son algunos de los que tenemos en mente para utilizar.
+
+Placa: XIAO ESP32 S3 Sense
+Microcontrolador compacto y potente con conectividad WiFi y Bluetooth integrada. Permite procesamiento de datos en tiempo real y tiene bajo consumo energético.
+
+Giroscopio (para detectar caídas): MPU6050
+Sensor utilizado en sistemas de detección de caídas por su buena precisión y tamaño reducido.
+
+Sensor de pulsos y oxígeno en sangre: MAX30102
+Módulo que mide la frecuencia cardíaca y la saturación de oxígeno mediante luz infrarroja. Se destaca por su bajo consumo.
+
+Comunicación inalámbrica con internet (con tarjeta SIM): SIM800L
+Módulo GPRS que permite enviar datos a través de la red móvil usando una tarjeta SIM. Ideal donde no hay acceso a WiFi y se necesita comunicación remota.:wq
+
