@@ -1,5 +1,12 @@
 # Proyecto Final
 
+## Problema
+¿Alguna vez te preocupaste de que tus abuelos o padres puedan sufrir un accidente y que no este enterado?, una encuesta realizada en el instituto técnico salesiano Villada nos mostro el como varios alumnos se preocupan por sus abuelos que viven solos o también profesores que se preocupan de sus padres ya ancianos.
+
+Esto no es exageración, ya que puedan pasar muchas cosas y si uno no se entera a tiempo pueden derivar en situaciones como golpes fuertes, robos, o en situaciones mas graves hacia ser querido.
+
+Estar informado es algo importante, así que proponemos la siguiente idea:
+
 ## Solución
 
 El trabajo consiste en una pulsera que monitorea el pulso todo el tiempo y detecta caídas. Capaz le sumamos oxígeno en sangre, dependiendo del sensor que terminemos usando. Aparte de sensar eso, va a tener un botón físico de S.O.S.
