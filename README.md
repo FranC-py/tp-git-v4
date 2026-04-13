@@ -38,3 +38,9 @@ Módulo que mide la frecuencia cardíaca y la saturación de oxígeno mediante l
 Comunicación inalámbrica con internet (con tarjeta SIM): SIM800L
 Módulo GPRS que permite enviar datos a través de la red móvil usando una tarjeta SIM. Ideal donde no hay acceso a WiFi y se necesita comunicación remota.:wq
 
+## Autores 
+
+- CASTILLO Franco
+- CERRI Valentín
+- SALATIN Francisco
+- VIRGOLINI Santiago
