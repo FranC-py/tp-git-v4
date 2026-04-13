@@ -46,3 +46,4 @@ Módulo GPRS que permite enviar datos a través de la red móvil usando una tarj
 - VIRGOLINI Santiago
 
 Cambio 1: Castillo
+Cambio 2: Castillo
