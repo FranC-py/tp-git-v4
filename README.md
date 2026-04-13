@@ -72,3 +72,5 @@ git commit: Sirve para guardar esos cambios de forma permanente en el historial 
 git pull: Se usa para traer a tu compu los cambios que están en el repositorio, así se agregan al proyecto actualizaciones que hicieron otros.
 
 git push: permite subir tus cambios al repositorio, para que queden guardados y a disposición para los demás.
+
+3. En un proyecto real, usamos ramas principalmente para trabajar tranquilos sin romper lo que ya funciona, ya que nos permiten separar cada tarea nueva o cada arreglo de errores en un espacio propio. Esto sirve para que varios compañeros puedan avanzar en distintas partes del código al mismo tiempo sin mezclarse ni borrarse cosas entre sí; además, funcionan como un campo de pruebas donde podemos experimentar cambios arriesgados con la seguridad de que, si algo sale mal, la versión principal del proyecto sigue intacta y operativa. Finalmente, las ramas son fundamentales para revisar el trabajo antes de darlo por terminado, asegurando que solo el código que realmente funciona se sume al resultado final.
