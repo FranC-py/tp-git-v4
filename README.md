@@ -64,3 +64,11 @@ Cambio 3: Virgolini
 
 1. Guardar versiones manualmente es un método propenso al caos. Usar un sistema de control de versiones como Git ofrece ventajas estructurales y técnicas que hacen el trabajo mucho más profesional y seguro.
 
+2. 
+git add: Se usa para seleccionar los archivos o cambios que querés incluir en el próximo guardado. 
+
+git commit: Sirve para guardar esos cambios de forma permanente en el historial del proyecto pero agregando un mensaje que explicque qué se hizo. Importante que sea claro el mensaje.
+
+git pull: Se usa para traer a tu compu los cambios que están en el repositorio, así se agregan al proyecto actualizaciones que hicieron otros.
+
+git push: permite subir tus cambios al repositorio, para que queden guardados y a disposición para los demás.
